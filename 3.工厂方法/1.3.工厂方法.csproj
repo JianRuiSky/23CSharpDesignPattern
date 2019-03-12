@@ -7,7 +7,7 @@
     <ProjectGuid>{642405F8-8E46-4480-8411-C8E51AFE4704}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_3.工厂方法</RootNamespace>
-    <AssemblyName>_3.工厂方法</AssemblyName>
+    <AssemblyName>3.工厂方法</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

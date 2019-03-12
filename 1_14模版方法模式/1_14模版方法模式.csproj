@@ -7,7 +7,7 @@
     <ProjectGuid>{69C118FF-D640-4A42-9757-A17CF0361830}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_1_14模版方法模式</RootNamespace>
-    <AssemblyName>_1_14模版方法模式</AssemblyName>
+    <AssemblyName>1_14模版方法模式</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

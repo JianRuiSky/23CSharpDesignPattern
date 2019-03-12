@@ -7,7 +7,7 @@
     <ProjectGuid>{08611D6F-77F4-4888-83B4-89F20B6A3AAF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_9.装饰者模式</RootNamespace>
-    <AssemblyName>_9.装饰者模式</AssemblyName>
+    <AssemblyName>9.装饰者模式</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

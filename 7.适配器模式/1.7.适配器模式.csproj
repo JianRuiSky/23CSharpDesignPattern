@@ -7,7 +7,7 @@
     <ProjectGuid>{ABD485E6-C3DA-4C0A-B69B-F02CDD472ED0}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_7.适配器模式</RootNamespace>
-    <AssemblyName>_7.适配器模式</AssemblyName>
+    <AssemblyName>7.适配器模式</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
+    <Compile Include="Program2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
